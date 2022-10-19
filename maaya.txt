@@ -1,0 +1,399 @@
+<body id="top" class="item-home ">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P2L38VH"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<header id="header" class="head-bt">
+    <nav class="navbar navbar-expand-xl navbar-dark">
+        <a class="navbar-brand" href="/"><img src="/user/pages/images/logo_mkcl.svg" alt="MKCL"><img src="/user/pages/images/logo_klic.png" alt="MKCL's KLiC"></a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMain" aria-controls="navbarMain" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarMain">            
+            <ul class="navbar-nav nav-main">
+    
+        
+                                <li class="nav-item active">
+                <a class="" href="/">
+                    Home
+                </a>
+            </li>
+                                        <li class="nav-item ">
+                <a class="" href="/klic-courses">
+                    KLiC Courses
+                </a>
+            </li>
+                                        <li class="nav-item ">
+                <a class="" href="/klic-diploma">
+                    KLiC Diploma
+                </a>
+            </li>
+                                        <li class="nav-item ">
+                <a class="" href="/deep-diploma">
+                    DEEP Diploma
+                </a>
+            </li>
+                                        <li class="nav-item ">
+                <a class="" href="/admission">
+                    Admission
+                </a>
+            </li>
+                                        <li class="nav-item ">
+                <a class="" href="/learner-lifecycle">
+                    Learner Life Cycle
+                </a>
+            </li>
+                                        <li class="nav-item ">
+                <a class="" href="/faqs">
+                    FAQs
+                </a>
+            </li>
+            
+
+</ul>
+
+        </div>
+    </nav>
+<div class="link-float">
+    <a class="btn btn-blue" href="http://solarex.mkcl.org/EF/exam/resultDisplay.jsp?jvId=1" target="_blank"> <i class="mdi mdi-checkbox-marked-circle-outline"></i>Verify Your Result</a>
+</div></header>
+<div id="showcase">
+    <div class="showcase-holder owl-carousel owl-loaded owl-drag">
+            
+            <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all 0s ease 0s; width: 1498px;"><div class="owl-item active" style="width: 1497.78px;"><div class="showcase-sr">
+            <div class="showcase-area showcase-area-resposive" style="background-image: url(/user/pages/images/slides/slide_tracks.png);">
+                            </div>
+        </div></div></div></div><div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><span aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button></div><div class="owl-dots disabled"><button role="button" class="owl-dot active"><span></span></button></div></div>
+</div>
+<section class="main-content">
+        
+            <div class="box-text box-welcome sec-module text-center pb-0">
+    <div class="container">
+        <div class="page-header ">
+    <div class="subtitle">Introduction</div>    <h1>Welcome to KLiC Courses</h1>
+</div>
+
+        <div class="row justify-content-center">
+            <div class="col-md-9">
+                <div class="text-holder">
+                    <p>KLiC stands for Knowledge Lit Career. KLiC series of courses serve as a bridge from college to careers. MKCL, under its KLiC brand, offers employability skills development modules as KLiC Certificate Courses. KLiC Courses are of 120 hours and 60 hours. KLiC Courses of 120 Hours are certified by Yashwantrao Chavan Maharashtra Open University (YCMOU).</p>
+<p>The focus of KLiC Courses is on knowledge-based skills for career development in diverse areas of the services sector. There are 32 KLiC Courses available under 10 sectors and those are Accounting, Back Office, Career Readiness, Designing, Digital Arts, Digital Freelancing, Hardware &amp; Networking, Management, New Collar Jobs, and Programming.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+            <div class="box-tracks sec-module text-center">
+    <div class="container">
+        
+<div class="section-header ">
+    <div class="subtitle">Different Categories</div>    <h2>KLiC Tracks</h2>
+</div>
+                        <div class="row section-track-holder">
+                        <div class="col-sm-6 col-lg-4 col-xl-3">
+                <a class="card-track" href="/accounting">
+                    <div class="ct-icon">
+                        <i class="ic-track ict-accounting"></i>
+                    </div>
+                    <div class="ct-title">Accounting Careers</div>
+                                                                                <ul class="ct-list">
+                                                                        <li class="ctl-item">KLiC Tally Prime Pro with GST</li>
+                                                <li class="ctl-item">KLiC Advanced Tally with GST</li>
+                                                                    </ul>
+                </a>
+            </div>
+                        <div class="col-sm-6 col-lg-4 col-xl-3">
+                <a class="card-track" href="/back-office">
+                    <div class="ct-icon">
+                        <i class="ic-track ict-back-office"></i>
+                    </div>
+                    <div class="ct-title">Back Office Careers</div>
+                                                                                <ul class="ct-list">
+                                                                        <li class="ctl-item">Data Management with Advanced MS Excel</li>
+                                                <li class="ctl-item">KLiC Office Assistance</li>
+                                                <li class="ctl-item">KLiC Data Entry and Data Management</li>
+                                                                    </ul>
+                </a>
+            </div>
+                        <div class="col-sm-6 col-lg-4 col-xl-3">
+                <a class="card-track" href="/klic-tracks/cad-cam-careers">
+                    <div class="ct-icon">
+                        <i class="ic-track ict-cad-cam"></i>
+                    </div>
+                    <div class="ct-title">CAD/CAM Careers</div>
+                                                                                <ul class="ct-list">
+                                                                        <li class="ctl-item">KLiC AutoCAD</li>
+                                                                    </ul>
+                </a>
+            </div>
+                        <div class="col-sm-6 col-lg-4 col-xl-3">
+                <a class="card-track" href="/career-readiness">
+                    <div class="ct-icon">
+                        <i class="ic-track ict-job-readiness"></i>
+                    </div>
+                    <div class="ct-title">Career Readiness</div>
+                                                                                <ul class="ct-list">
+                                                                        <li class="ctl-item">KLiC IT</li>
+                                                <li class="ctl-item">KLiC English</li>
+                                                                    </ul>
+                </a>
+            </div>
+                        <div class="col-sm-6 col-lg-4 col-xl-3">
+                <a class="card-track" href="/klic-tracks/computational-thinking-for-school-students">
+                    <div class="ct-icon">
+                        <i class="ic-track ict-computational-thinking"></i>
+                    </div>
+                    <div class="ct-title">Computational Thinking for School Students</div>
+                                                                                <ul class="ct-list">
+                                                                        <li class="ctl-item">KLiC SCRATCH</li>
+                                                                    </ul>
+                </a>
+            </div>
+                        <div class="col-sm-6 col-lg-4 col-xl-3">
+                <a class="card-track" href="/designing">
+                    <div class="ct-icon">
+                        <i class="ic-track ict-designing"></i>
+                    </div>
+                    <div class="ct-title">Designing Careers</div>
+                                                                                <ul class="ct-list">
+                                                                        <li class="ctl-item">KLiC DTP (CorelDRAW)</li>
+                                                <li class="ctl-item">KLiC DTP (Adobe)</li>
+                                                <li class="ctl-item">KLiC Photoshop</li>
+                                                <li class="ctl-info">Explore more courses</li>
+                                            </ul>
+                </a>
+            </div>
+                        <div class="col-sm-6 col-lg-4 col-xl-3">
+                <a class="card-track" href="/digital-freelancing">
+                    <div class="ct-icon">
+                        <i class="ic-track ict-digital-freelancing"></i>
+                    </div>
+                    <div class="ct-title">Digital Freelancing</div>
+                                                                                <ul class="ct-list">
+                                                                        <li class="ctl-item">KLiC Digital Freelancing</li>
+                                                <li class="ctl-item">KLiC Advanced Digital Freelancing</li>
+                                                                    </ul>
+                </a>
+            </div>
+                        <div class="col-sm-6 col-lg-4 col-xl-3">
+                <a class="card-track" href="/digital-arts">
+                    <div class="ct-icon">
+                        <i class="ic-track ict-digital-arts"></i>
+                    </div>
+                    <div class="ct-title">Digital Arts Careers</div>
+                                                                                <ul class="ct-list">
+                                                                        <li class="ctl-item">KLiC 3D Artist (Modelling)</li>
+                                                <li class="ctl-item">KLiC 3D Artist (Texturing and Lighting)</li>
+                                                <li class="ctl-item">KLiC IT for Art Teacher</li>
+                                                                    </ul>
+                </a>
+            </div>
+                        <div class="col-sm-6 col-lg-4 col-xl-3">
+                <a class="card-track" href="/klic-tracks/grooming-for-careers">
+                    <div class="ct-icon">
+                        <i class="ic-track ict-grooming-for-careers"></i>
+                    </div>
+                    <div class="ct-title">Grooming for Careers</div>
+                                                                                <ul class="ct-list">
+                                                                                            </ul>
+                </a>
+            </div>
+                        <div class="col-sm-6 col-lg-4 col-xl-3">
+                <a class="card-track" href="/klic-tracks/industrial-revolution-4-0-ir-4-0-careers">
+                    <div class="ct-icon">
+                        <i class="ic-track ict-ir-4"></i>
+                    </div>
+                    <div class="ct-title">Industrial Revolution 4.0 (IR 4.0) Careers</div>
+                                                                                <ul class="ct-list">
+                                                                        <li class="ctl-item">KLiC IoT</li>
+                                                <li class="ctl-item">KLiC Robotics</li>
+                                                                    </ul>
+                </a>
+            </div>
+                        <div class="col-sm-6 col-lg-4 col-xl-3">
+                <a class="card-track" href="/management">
+                    <div class="ct-icon">
+                        <i class="ic-track ict-management"></i>
+                    </div>
+                    <div class="ct-title">IT Enabled Services Careers</div>
+                                                                                <ul class="ct-list">
+                                                                        <li class="ctl-item">KLiC Retail Management</li>
+                                                <li class="ctl-item">KLiC BFSI</li>
+                                                                    </ul>
+                </a>
+            </div>
+                        <div class="col-sm-6 col-lg-4 col-xl-3">
+                <a class="card-track" href="/hardware-and-networking">
+                    <div class="ct-icon">
+                        <i class="ic-track ict-hardware-networking"></i>
+                    </div>
+                    <div class="ct-title">IT Hardware and Networking Careers</div>
+                                                                                <ul class="ct-list">
+                                                                        <li class="ctl-item">KLiC Hardware &amp; Network Support</li>
+                                                <li class="ctl-item">KLiC Desktop Support</li>
+                                                <li class="ctl-item">KLiC IT Security and Cyber Security</li>
+                                                                    </ul>
+                </a>
+            </div>
+                        <div class="col-sm-6 col-lg-4 col-xl-3">
+                <a class="card-track" href="/programming">
+                    <div class="ct-icon">
+                        <i class="ic-track ict-programming"></i>
+                    </div>
+                    <div class="ct-title">Programming Careers</div>
+                                                                                <ul class="ct-list">
+                                                                        <li class="ctl-item">KLiC C Programming</li>
+                                                <li class="ctl-item">KLiC C++ Programming</li>
+                                                <li class="ctl-item">KLiC Mobile App Development</li>
+                                                <li class="ctl-info">Explore more courses</li>
+                                            </ul>
+                </a>
+            </div>
+                        <div class="col-sm-6 col-lg-4 col-xl-3">
+                <a class="card-track" href="/klic-tracks/services-management-careers">
+                    <div class="ct-icon">
+                        <i class="ic-track ict-services-management"></i>
+                    </div>
+                    <div class="ct-title">Services Management Careers</div>
+                                                                                <ul class="ct-list">
+                                                                                            </ul>
+                </a>
+            </div>
+                        <div class="col-sm-6 col-lg-4 col-xl-3">
+                <a class="card-track" href="/klic-tracks/smart-teaching-careers">
+                    <div class="ct-icon">
+                        <i class="ic-track ict-smart-teaching"></i>
+                    </div>
+                    <div class="ct-title">Smart Teaching Careers</div>
+                                                                                <ul class="ct-list">
+                                                                        <li class="ctl-item">KLiC Smart Teacher</li>
+                                                                    </ul>
+                </a>
+            </div>
+                    </div>
+        <div class="text-holder">
+            
+        </div>
+    </div>
+</div>
+            <div class="box-partner sec-module bg-blue-overlay" style="background-image: url(/user/pages/images/bg-partner.jpg);">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-auto image-holder">
+                <div class="partner-image">
+                    <img src="/user/pages/images/logo_ycmou.png" alt="Yashwantrao Chavan Maharashtra Open University" class="img-fluid">
+                </div>
+            </div>
+            <div class="col text-holder">
+                <p>Certifying Body</p>
+<h3>Yashwantrao Chavan Maharashtra Open University</h3>
+            </div>
+        </div>
+    </div>
+</div>
+    </section>
+
+<footer id="footer">
+    <div class="footer-top">
+         
+                <div class="container">
+            <div class="row">
+                                                <div class="col-sm-6 col-lg-4">
+                                        <h5>Company</h5>
+                                        <ul class="footer-links">
+            <li class="active">
+        <a class="" href="/">
+            Home
+        </a>
+    </li>
+            <li class="">
+        <a class="" href="/klic-diploma">
+            KLiC Diploma
+        </a>
+    </li>
+            <li class="">
+        <a class="" href="/about-us">
+            About Us
+        </a>
+    </li>
+    </ul>
+<h5>Send your feedback</h5>
+<ul class="footer-contact">
+    <li><i class="mdi mdi-email-outline"></i> <a href="mailto:feedback@mkcl.org">feedback@mkcl.org</a></li>
+</ul>
+                </div>
+                                                                <div class="col-sm-6 col-lg-4">
+                                        <h5>Quick Links</h5>
+                                        <ul class="footer-links">
+            <li class="">
+        <a class="" href="/admission">
+            Admission
+        </a>
+    </li>
+            <li class="">
+        <a class="" href="/files/Important-Instructions-to-KLiC-Learners-for-Year-2022.pdf" target="_blank">
+            Important Instructions
+        </a>
+    </li>
+            <li class="">
+        <a class="" href="https://forms.gle/LNpYCU4M4BB5iEyKA" target="_blank">
+            Contact Us
+        </a>
+    </li>
+            <li class="">
+        <a class="" href="https://searchcenter.mkcl.org/klic" target="_blank">
+            Find nearest ALC Center
+        </a>
+    </li>
+            <li class="">
+        <a class="" href="http://solarex.mkcl.org/EF/exam/resultDisplay.jsp?jvId=1" target="_blank">
+            Verify Your Result
+        </a>
+    </li>
+            <li class="">
+        <a class="" href="/terms-and-conditions">
+            Terms &amp; Conditions
+        </a>
+    </li>
+    </ul>
+                </div>
+                                                                <div class="col-sm-12 col-lg-4 ">
+                                        <h5>Get In Touch</h5>
+                                        <ul class="footer-contact">
+                                                <li><i class="mdi mdi-map-marker-outline"></i>ICC Trade Tower,<br> 'A' Wing, 5th Floor,<br> Senapati Bapat Road,<br> Shivajinagar, Pune 411 016,<br> Maharashtra, India.</li>
+                                                <li><i class="mdi mdi-email-outline"></i><a href="mailto:support@mkcl.org">support@mkcl.org</a></li>
+                                                <li><i class="mdi mdi-phone-in-talk-outline"></i>+91 20 4011 4500</li>
+                                            </ul>
+                    <h5>Follow Us</h5>
+<div class="box-social">
+    <a target="_blank" href="https://www.facebook.com/MKCL.INDIA"><i class="mdi mdi-facebook"></i></a>
+    <a target="_blank" href="https://twitter.com/MKCLINDIA"><i class="mdi mdi-twitter"></i></a>
+    <a target="_blank" href="https://www.youtube.com/c/MaharashtraKnowledgeCorporationLtd"><i class="mdi mdi-youtube"></i></a>
+    <a target="_blank" href="https://www.instagram.com/mkcl.india/"><i class="mdi mdi-instagram"></i></a>
+    <a target="_blank" href="https://www.kooapp.com/profile/mkcl"><i class="mdi mdi-koo"></i></a>
+</div>
+                </div>
+                                            </div>
+        </div>
+    </div>
+    <div class="footer-bottom">
+         
+                <div class="container">
+            <div class="row align-items-center">
+                                <div class="col-lg copyright">
+                                        <p>Copyright © 2022 <a href="https://www.mkcl.org/" target="_blank">Maharashtra Knowledge Corporation Limited</a>. All Rights Reserved.</p>
+                </div>
+                            </div>
+        </div>
+    </div>
+</footer>
+
+<script src="/assets/52405f1f569ad96451d3db9d4fa1a1e6.js"></script>
+
+
+
+
+
+</body>
